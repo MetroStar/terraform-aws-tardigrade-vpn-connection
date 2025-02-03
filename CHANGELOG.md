@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
-### [3.1.2](https://github.com/plus3it/terraform-aws-tardigrade-vpn-connection/releases/tag/3.1.2)
+### [3.1.2](https://github.com/MetroStar/terraform-aws-tardigrade-vpn-connection/releases/tag/3.1.2)
 
 **Released**: 2024.02.16
 
@@ -15,7 +15,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
     problem with the diff must be related to a different configuration specific
     to the user config.
 
-### [3.1.1](https://github.com/plus3it/terraform-aws-tardigrade-vpn-connection/releases/tag/3.1.1)
+### [3.1.1](https://github.com/MetroStar/terraform-aws-tardigrade-vpn-connection/releases/tag/3.1.1)
 
 **Released**: 2024.01.12
 
@@ -24,7 +24,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 *   Avoids unnecessary diffs when the vgw_telemetry attribute is updated outside
     the terraform workflow
 
-### [3.1.0](https://github.com/plus3it/terraform-aws-tardigrade-vpn-connection/releases/tag/3.1.0)
+### [3.1.0](https://github.com/MetroStar/terraform-aws-tardigrade-vpn-connection/releases/tag/3.1.0)
 
 **Released**: 2023.12.20
 
@@ -33,7 +33,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 *   Support creating transit gateway route table associations and propagations
     for the vpn connection
 
-### [3.0.1](https://github.com/plus3it/terraform-aws-tardigrade-vpn-connection/releases/tag/3.0.1)
+### [3.0.1](https://github.com/MetroStar/terraform-aws-tardigrade-vpn-connection/releases/tag/3.0.1)
 
 **Released**: 2023.12.20
 
@@ -48,7 +48,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **Released**: 2023.12.09
 
-**Commit Delta**: [Change from 1.0.2 release](https://github.com/plus3it/terraform-aws-tardigrade-vpn-connection/compare/1.0.2...3.0.0)
+**Commit Delta**: [Change from 1.0.2 release](https://github.com/MetroStar/terraform-aws-tardigrade-vpn-connection/compare/1.0.2...3.0.0)
 
 **Summary**:
 
@@ -59,7 +59,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **Released**: 2019.10.28
 
-**Commit Delta**: [Change from 1.0.1 release](https://github.com/plus3it/terraform-aws-tardigrade-vpn-connection/compare/1.0.1...1.0.2)
+**Commit Delta**: [Change from 1.0.1 release](https://github.com/MetroStar/terraform-aws-tardigrade-vpn-connection/compare/1.0.1...1.0.2)
 
 **Summary**:
 
@@ -71,7 +71,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **Released**: 2019.10.04
 
-**Commit Delta**: [Change from 1.0.0 release](https://github.com/plus3it/terraform-aws-tardigrade-vpn-connection/compare/1.0.0...1.0.1)
+**Commit Delta**: [Change from 1.0.0 release](https://github.com/MetroStar/terraform-aws-tardigrade-vpn-connection/compare/1.0.0...1.0.1)
 
 **Summary**:
 
@@ -82,7 +82,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **Released**: 2019.09.16
 
-**Commit Delta**: [Change from 0.0.0 release](https://github.com/plus3it/terraform-aws-tardigrade-vpn-connection/compare/0.0.0...1.0.0)
+**Commit Delta**: [Change from 0.0.0 release](https://github.com/MetroStar/terraform-aws-tardigrade-vpn-connection/compare/0.0.0...1.0.0)
 
 **Summary**:
 
